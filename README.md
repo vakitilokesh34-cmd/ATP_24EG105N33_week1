@@ -1,19 +1,9 @@
-# 🚀 Welcome to My JavaScript Learning Lab!
-
-Hey there! This folder is where I've been practicing the building blocks of JavaScript. It's a collection of simple, handy scripts that show off the basics—from writing your first functions to handling logic and playing with lists of data.
-
-Whether you're just starting out or just want to see some clean examples of core concepts, you're in the right place!
-
----
-
-## 📂 What's Inside?
-
-### 🛠️ The Basics (Root Folder)
+###  The Basics (Root Folder)
 These files are all about how we write functions in modern JavaScript:
 *   **`demo.js`**: A simple greeting example using **function expressions**.
 *   **`sum1.js`**: Getting fancy with **ES6 Arrow Functions** to do some quick math.
 
-### 🧠 Logic & Problem Solving (`h1` Folder)
+### Logic & Problem Solving (`h1` Folder)
 Here's where things get interesting! I've put together some scripts that handle decision-making and data:
 
 **Finding the Biggest Number:**
@@ -29,7 +19,7 @@ Here's where things get interesting! I've put together some scripts that handle 
 
 ---
 
-## 🛠️ How to Run Them
+##  How to Run Them
 Want to see these scripts in action? It's super easy! Just make sure you have **Node.js** installed, then open your terminal and type:
 
 ```bash
