@@ -29,5 +29,3 @@ node demo.js
 # To run a file in the subfolder:
 node h1/search.js
 ```
-
-Happy coding! 👨‍💻✨
